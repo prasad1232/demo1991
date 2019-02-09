@@ -31,3 +31,36 @@ c:\users\user\documents\visual studio 2015\Projects\Helloworld\Helloworld\bin\Mi
 c:\users\user\documents\visual studio 2015\Projects\Helloworld\Helloworld\obj\Debug\Helloworld.dll
 c:\users\user\documents\visual studio 2015\Projects\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
 C:\Users\user\documents\visual studio 2015\Projects\Helloworld\Helloworld\obj\Debug\Helloworld.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\ApplicationInsights.config
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Helloworld.dll.config
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Helloworld.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Helloworld.pdb
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\obj\Debug\Helloworld.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\obj\Debug\Helloworld.dll
+C:\Users\user\Desktop\Prasad_test\Demo1991SampleApp\demo1991\Helloworld\obj\Debug\Helloworld.pdb
